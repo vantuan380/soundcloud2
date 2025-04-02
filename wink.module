@@ -1,0 +1,12 @@
+#!url=https://vantuan2703/module/wink.module
+#!name=Wink 💤.mudule
+#!desc= By: ѵăռŧυấռ 💤
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/.png
+#!homepage=https://vantuan2703
+#!author=yqc007
+[Script]
+WinkForeverVipCrack.js=type=http-response,pattern=^https?:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group\.json,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WinkForeverVipCrack.js
+
+
+[MITM]
+hostname = %APPEND% api-sub.meitu.com
